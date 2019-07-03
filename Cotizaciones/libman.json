@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "filesystem",
+      "library": "C:\\Users\\user\\Downloads\\bootstrap-4.3.1-dist\\",
+      "destination": "wwwroot/bootstrap-4.3/",
+      "files": []
+    }
+  ]
+}
